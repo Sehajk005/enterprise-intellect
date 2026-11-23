@@ -25,3 +25,9 @@ Thumbs.db
 
 ## Scratch (local, throwaway — not part of the repo)
 scratch/
+
+## File storage (uploaded/ingested documents — runtime data, not source)
+storage/
+
+# Project documentation files
+docs/
