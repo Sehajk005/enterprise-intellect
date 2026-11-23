@@ -1,0 +1,27 @@
+## Secrets
+.env
+.env.*
+!.env.example
+
+## Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+## Node
+node_modules/
+dist/
+.vite/
+
+## OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+## Scratch (local, throwaway — not part of the repo)
+scratch/
